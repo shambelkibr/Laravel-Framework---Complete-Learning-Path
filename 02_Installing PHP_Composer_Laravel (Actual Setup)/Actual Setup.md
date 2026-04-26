@@ -85,12 +85,6 @@ cd ~/Desktop
 laravel new my-first-app
 ```
 
-This will take 1-2 minutes. It will ask:
-> "Would you like to install a starter kit?"  
-Type: **none** (just press Enter)
-
-> "Which testing framework do you prefer?"  
-Type: **pest** or **phpunit** (either is fine, press Enter)
 
 ---
 
@@ -106,19 +100,7 @@ You will see:
 Starting Laravel development server: http://127.0.0.1:8000
 ```
 
----
 
-### 🌐 Step 8: See It in Your Browser
-
-Open Firefox or Chrome (on your Ubuntu machine) and go to:
-
-```
-http://127.0.0.1:8000
-```
-
-You should see the **Laravel welcome page** (white background with "Laravel" text and logo).
-
----
 
 ###  Success Checklist
 
