@@ -28,6 +28,39 @@ Learn Laravel the right way — one small concept at a time, with real-world ana
 
 *More steps added as I progress.*
 
+```
+┌─────────────────────────────────────────────────────────┐
+│  PHASE 1: FOUNDATION (Days 1-3)                         │
+│  ├─ What is Laravel? (Why vs pure PHP)                  │
+│  ├─ MVC Pattern Explained                               │
+│  ├─ Installation & Environment Setup                    │
+│  └─ First Laravel Project                               │
+├─────────────────────────────────────────────────────────┤
+│  PHASE 2: ROUTING & CONTROLLERS (Days 4-6)              │
+│  ├─ Routes (web.php)                                    │
+│  ├─ Controllers                                         │
+│  ├─ Request & Response                                  │
+│  └─ Middleware                                          │
+├─────────────────────────────────────────────────────────┤
+│  PHASE 3: VIEWS & BLADE (Days 7-9)                      │
+│  ├─ Blade Templates                                     │
+│  ├─ Layouts & Components                                │
+│  └─ Forms & CSRF                                        │
+├─────────────────────────────────────────────────────────┤
+│  PHASE 4: DATABASE (Days 10-14)                         │
+│  ├─ Migrations                                          │
+│  ├─ Eloquent ORM                                        │
+│  ├─ Relationships                                       │
+│  └─ Query Builder                                       │
+├─────────────────────────────────────────────────────────┤
+│  PHASE 5: ADVANCED (Days 15-21)                         │
+│  ├─ Authentication                                      │
+│  ├─ API Development                                     │
+│  └─ React + Laravel (Your goal)                        │
+└─────────────────────────────────────────────────────────┘
+```
+
+
 
 ## ✅ Progress Tracker
 
